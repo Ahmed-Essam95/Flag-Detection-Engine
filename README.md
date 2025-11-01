@@ -1,6 +1,6 @@
-# PPT Flag Checker Automation using Selenium
+# PPT Flag Checker Automation Using Selenium
 
-This Python automation script uses **Selenium WebDriver** to scrape customer dial information from a web application. It navigates through multiple pages, extracts specific service data, checks for the **PPT Flag**, and saves the results into an Excel sheet.
+This Python automation script uses **Selenium WebDriver** to scrape customer dial information from a web application, It navigates through multiple pages, extracts specific service data, checks for the **PPT Flag**, and saves the results into an Excel sheet.
 
 ---
 
