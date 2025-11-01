@@ -20,6 +20,16 @@ This Python automation script uses **Selenium WebDriver** to scrape customer dia
 
 ---
 
+## Steps
+
+Logs into a web portal
+Navigates dynamically
+Checks each account
+Detects a specific “PPT flag”
+Writes findings back into Excel
+
+---
+
 ## Tech Stack
 
 - [Selenium]  for web automation
